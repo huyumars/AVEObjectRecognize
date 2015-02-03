@@ -83,6 +83,7 @@
     <ClInclude Include="PatchRecognize.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ObjectRecognize.cpp" />
