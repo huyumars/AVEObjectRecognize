@@ -2,6 +2,8 @@
 //
 //1234
 
+//hello nihao
+
 ///asdfasdfasdfasd
 
 #include "stdafx.h"
